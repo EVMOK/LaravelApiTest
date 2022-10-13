@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "domain_id": 16,
+            "subject": "123",
+            "unisender_send_date_at": "12.05.2022 16:01",
+            "created_at": null
+        },
+        {
+            "id": 2,
+            "domain_id": 16,
+            "subject": "123",
+            "unisender_send_date_at": "12.05.2022 16:01",
+            "created_at": null
+        },
+        {
+            "id": 3,
+            "domain_id": 16,
+            "subject": "123",
+            "unisender_send_date_at": "12.05.2022 16:01",
+            "created_at": null
+        },
+        {
+            "id": 4,
+            "domain_id": 16,
+            "subject": "123",
+            "unisender_send_date_at": "12.05.2022 16:01",
+            "created_at": null
+        },
+        {
+            "id": 5,
+            "domain_id": 16,
+            "subject": "123",
+            "unisender_send_date_at": "12.05.2022 16:01",
+            "created_at": null
+        }
+    ]
+}
